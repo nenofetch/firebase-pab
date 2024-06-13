@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "1025265380642",
-    "project_id": "praktikum-firebase-eeb0d",
-    "storage_bucket": "praktikum-firebase-eeb0d.appspot.com"
+    "project_number": "93488967327",
+    "firebase_url": "https://learn-firebase-pab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "learn-firebase-pab",
+    "storage_bucket": "learn-firebase-pab.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1025265380642:android:340655fa7ef792b26d497b",
+        "mobilesdk_app_id": "1:93488967327:android:364fe9686a03f4761cbcaa",
         "android_client_info": {
           "package_name": "com.nenofetch.firebasepab"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB_8zSN2mNC5jhQHXFK4ZzmR6eB6YGSt6s"
+          "current_key": "AIzaSyDjyokOGR0r-1sAfUpjaUBSv3rgA3Rd1D8"
         }
       ],
       "services": {
