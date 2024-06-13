@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025265380642",
+    "project_id": "praktikum-firebase-eeb0d",
+    "storage_bucket": "praktikum-firebase-eeb0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025265380642:android:340655fa7ef792b26d497b",
+        "android_client_info": {
+          "package_name": "com.nenofetch.firebasepab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_8zSN2mNC5jhQHXFK4ZzmR6eB6YGSt6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
